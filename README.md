@@ -1,2 +1,2 @@
-# MegoMan
+# MegaMan
  The MegaMan Podcast
